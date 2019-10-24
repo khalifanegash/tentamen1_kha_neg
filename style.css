@@ -1,0 +1,32 @@
+div.fig1{
+background-color: black;
+width: 800px;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+text-decoration-color: white;
+
+}
+div.fig2{
+     border: solid;
+     text-decoration-color: black;
+     width: 599px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 30px;
+  table{
+       border: 1px solid black;
+
+  } 
+  fig3{
+       border: solid black;
+       width: 3px;
+  }
+  div.fig4 {
+       border: 100px;
+       width: 100px;
+       background-color: lightblue;
+  }
+  nav1{
+       background-color: lightgreen;
+       position: fixed;
+  } 
